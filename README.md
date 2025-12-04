@@ -1,68 +1,74 @@
-# 👋 Hello, I'm Cairo!
+👋 Hi, I'm Cairo!
 
-I'm a **Web Developer** currently transitioning from the **tourism and hospitality industry** to the world of **technology**.  
-After several years working in tourism — including experiences at *Trem do Corcovado*, hotels, and as a **crew member on cruise ships** — I decided to channel my passion for creativity and problem-solving into web development.
+Junior Back-End / Full-Stack Web Developer
+Transitioning from a global tourism and hospitality career to building modern web applications.
 
----
+After 2 years working abroad on cruise ships with multicultural teams, I discovered in programming a space where my natural problem-solving mindset and creativity fit perfectly. Hoje, meu foco está no back-end, APIs e aplicações dinâmicas.
 
-## 💻 About Me
-- 🎓 Graduated in **Full-Stack Web Development** *(Dr. Angela Yu - Udemy)*  
-- 📚 Currently expanding my skills in **WordPress**, **Digital Marketing**, and **Ethical Hacking**  
-- 💡 Focused on creating **functional, responsive, and visually clean web experiences**  
-- 🚀 Always learning and improving — technology is my new journey of discovery  
+💻 About Me
 
----
+🎓 Full-Stack Web Development (Angela Yu – Udemy)
 
-## 🧠 Tech Stack
-**Front-end:** HTML | CSS | JavaScript | Bootstrap  
-**Back-end:** Node.js | Express | EJS | HTTP Requests  
-**Tools:** Git | GitHub | REST APIs | Responsive Design
+🌎 Experiência internacional trabalhando com +20 nacionalidades
 
----
+📌 Foco atual: Back-End com Node.js, Express e PostgreSQL
 
-## 🚀 Featured Projects
+🧩 Apaixonado por resolver problemas reais e transformar ideias em produtos funcionais
 
-### 🎮 [Codec (MGS1)](https://github.com/Cairooo/Codec)
-A project built with **HTML, CSS, and JavaScript**, inspired by the **Codec interface from Metal Gear Solid 1**.  
-Currently **fully functional on desktop** — mobile **responsiveness under development**.
+🔄 Estudando continuamente e construindo projetos próprios
 
----
+🧠 Tech Stack
 
-### 👤 [Personal Website](https://github.com/Cairooo/Personal-Web-Site)
-A simple **personal webpage** developed at the beginning of my journey to showcase my **front-end skills**.
+Front-end: HTML • CSS • JavaScript • Bootstrap
+Back-end: Node.js • Express • EJS • REST APIs • PostgreSQL
+Ferramentas: Git • GitHub • Render • Postman
 
----
+🚀 Featured Projects
+🎬 Movie Finder (API Integration)
 
-### ⛪ [ISEL Church Website](https://github.com/Cairooo/Isel)
-Website developed for the **Igreja Salvação e Louvor (ISEL)** using **HTML, CSS, and Bootstrap**.  
-Designed to reflect the church’s **visual identity** and provide a **modern, responsive** experience for visitors.
+Aplicação que consome a API pública do IMDb/OMDb para buscar detalhes de filmes a partir de um formulário.
+Treinamento de requisições HTTP, rotas Express e renderização dinâmica com EJS.
 
----
+⛪ ISEL Church Website
 
-### 📝 [Digital Diary](https://github.com/Cairooo/Digital-Diary)
-A project simulating a **digital diary**, created to practice **HTTP methods** like `GET`, `POST`, and `DELETE` using **Node.js** and **Express**.
+Site institucional moderno e responsivo, criado com HTML, CSS e Bootstrap.
 
----
+📓 Digital Diary (CRUD)
 
-### 💉 [Gabriel Castano Tattoo Studio](https://github.com/Cairooo/Gabriel-Castano-Tattoo-Studio)
-Landing page designed to **promote a tattoo artist’s services**, focusing on **conversion optimization**, **responsive design**, and a **clean portfolio-oriented layout**.  
-Built with **HTML, CSS, and JavaScript**.
+Projeto para treinar GET, POST e DELETE usando Node.js e Express.
 
----
+🎮 Codec (MGS1)
 
-## 🌱 Currently Learning
-- WordPress Development  
-- Digital Marketing Strategies  
-- Ethical Hacking Fundamentals  
+Recriação interativa do codec do Metal Gear Solid 1 usando HTML, CSS e JavaScript.
 
----
+💉 Tattoo Studio – Landing Page
 
-## 📫 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/cairo-estrella-de-oliveira-167a57100/)  
-- 📧 [E-mail](mailto:cairo.92@hotmail.com)  
-- 🧰 [GitHub Profile](https://github.com/Cairooo)
+Landing page otimizada para conversão com foco em UI simples e responsiva.
 
----
+🌍 International Background (Seu Diferencial)
 
-> “Transitioning careers, but keeping the same purpose — creating meaningful experiences, now through code.”
+2 anos de experiência a bordo de navios de cruzeiro, trabalhando com equipes de diversas nacionalidades.
+→ Comunicação constante em inglês
+→ Alta adaptabilidade
+→ Trabalho em ambientes de pressão
+→ Facilidade de colaboração multicultural
 
+Essas soft skills são extremamente valorizadas em vagas remotas e internacionais.
+
+🌱 Currently Learning
+
+Node.js avançado
+
+PostgreSQL + Querying
+
+Autenticação (JWT)
+
+Estrutura de APIs reais
+
+(Removi WordPress e Ethical Hacking — não ajudam para vaga júnior e só confundem o seu posicionamento.)
+
+📫 Let's Connect!
+
+💼 LinkedIn
+🧰 GitHub
+📧 Email
