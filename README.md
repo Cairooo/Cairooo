@@ -1,74 +1,114 @@
-👋 Hi, I'm Cairo!
+👋 Hello, I'm Cairo!
 
 Junior Back-End / Full-Stack Web Developer
-Transitioning from a global tourism and hospitality career to building modern web applications.
+Transitioning from the tourism and hospitality industry into tech — now building modern and functional web applications.
 
-After 2 years working abroad on cruise ships with multicultural teams, I discovered in programming a space where my natural problem-solving mindset and creativity fit perfectly. Hoje, meu foco está no back-end, APIs e aplicações dinâmicas.
+I previously worked for 2 years aboard cruise ships with multicultural teams, developing strong communication, adaptability, and problem-solving skills. Today, I focus on back-end development, APIs, and dynamic applications.
 
 💻 About Me
 
-🎓 Full-Stack Web Development (Angela Yu – Udemy)
+🎓 Full-Stack Web Development (Angela Yu — Udemy)
 
-🌎 Experiência internacional trabalhando com +20 nacionalidades
+🌍 Experience working with +20 nationalities aboard cruise ships
 
-📌 Foco atual: Back-End com Node.js, Express e PostgreSQL
+🧩 Passion for building clean, functional and efficient web solutions
 
-🧩 Apaixonado por resolver problemas reais e transformar ideias em produtos funcionais
+🚀 Focused on back-end, but capable of working full-stack
 
-🔄 Estudando continuamente e construindo projetos próprios
+🔄 Always learning and building projects
 
 🧠 Tech Stack
+Front-end
 
-Front-end: HTML • CSS • JavaScript • Bootstrap
-Back-end: Node.js • Express • EJS • REST APIs • PostgreSQL
-Ferramentas: Git • GitHub • Render • Postman
+HTML
+
+CSS
+
+JavaScript
+
+Bootstrap
+
+Back-end
+
+Node.js
+
+Express
+
+PostgreSQL
+
+EJS
+
+REST APIs
+
+Tools
+
+Git & GitHub
+
+Render
+
+Postman
 
 🚀 Featured Projects
-🎬 Movie Finder (API Integration)
+🎬 Movie Finder – API Integration
 
-Aplicação que consome a API pública do IMDb/OMDb para buscar detalhes de filmes a partir de um formulário.
-Treinamento de requisições HTTP, rotas Express e renderização dinâmica com EJS.
+A web app that consumes a public IMDb/OMDb API to search for movie info based on user input.
+Uses Express, EJS, and server-side rendering.
 
 ⛪ ISEL Church Website
 
-Site institucional moderno e responsivo, criado com HTML, CSS e Bootstrap.
+Institutional website created with HTML, CSS and Bootstrap.
+Clean layout and fully responsive.
 
-📓 Digital Diary (CRUD)
+📓 Digital Diary – CRUD
 
-Projeto para treinar GET, POST e DELETE usando Node.js e Express.
+Project built to practice GET, POST and DELETE using Node.js + Express.
+Simulates a simple digital diary with server-side rendering.
 
-🎮 Codec (MGS1)
+🎮 Codec (Metal Gear Solid 1)
 
-Recriação interativa do codec do Metal Gear Solid 1 usando HTML, CSS e JavaScript.
+Recreation of the MGS1 Codec interface using HTML, CSS and JavaScript.
+Fully functional on desktop — mobile version under development.
 
 💉 Tattoo Studio – Landing Page
 
-Landing page otimizada para conversão com foco em UI simples e responsiva.
+Landing page focused on responsive design, UI clarity and conversion.
+Built with HTML, CSS, JavaScript.
 
-🌍 International Background (Seu Diferencial)
+🌍 International Experience (My Edge)
 
-2 anos de experiência a bordo de navios de cruzeiro, trabalhando com equipes de diversas nacionalidades.
-→ Comunicação constante em inglês
-→ Alta adaptabilidade
-→ Trabalho em ambientes de pressão
-→ Facilidade de colaboração multicultural
+I worked 2 years aboard cruise ships with teams from more than 20 nationalities.
 
-Essas soft skills são extremamente valorizadas em vagas remotas e internacionais.
+This experience gave me:
+
+Strong communication skills
+
+Fluency in English
+
+Adaptability
+
+Multicultural teamwork
+
+Fast learning ability
+
+These soft skills make me stand out in remote and international junior positions.
 
 🌱 Currently Learning
 
-Node.js avançado
+Advanced Node.js
 
-PostgreSQL + Querying
+PostgreSQL
 
-Autenticação (JWT)
+API architecture
 
-Estrutura de APIs reais
-
-(Removi WordPress e Ethical Hacking — não ajudam para vaga júnior e só confundem o seu posicionamento.)
+JWT Authentication
 
 📫 Let's Connect!
 
-💼 LinkedIn
-🧰 GitHub
-📧 Email
+💼 LinkedIn:
+https://www.linkedin.com/in/cairo-estrella-de-oliveira-167a57100/
+
+🧰 GitHub:
+https://github.com/Cairooo
+
+✉️ Email:
+cairo.92@hotmail.com
