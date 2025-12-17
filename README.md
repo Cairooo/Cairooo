@@ -1,86 +1,75 @@
 # 👋 Hello, I'm Cairo!
 
 **Junior Back-End / Full-Stack Web Developer**  
-Transitioning from the tourism and hospitality industry into tech — now building modern and functional web applications.
-
-I previously worked for 2 years aboard cruise ships with multicultural teams, developing strong communication, adaptability, and problem-solving skills. Today, I focus on back-end development, APIs, and dynamic applications.
+Transitioning from tourism and hospitality into tech, building modern, functional, and efficient web applications.
 
 ---
 
 ## 💻 About Me
-- 🎓 **Full-Stack Web Development** (Angela Yu — Udemy)  
-- 🌍 Experience working with +20 nationalities aboard cruise ships  
-- 🧩 Passion for building clean, functional and efficient web solutions  
-- 🚀 Focused on **back-end**, but capable of working full-stack  
-- 🔄 Always learning and building projects
+- Previously worked **2 years aboard cruise ships** with multicultural teams (+20 nationalities)  
+- Developed strong **communication, adaptability, and problem-solving skills**  
+- Currently focused on **back-end development, APIs, and full-stack projects**  
+- Passionate about building **clean and functional web solutions**  
+- Always learning and expanding my tech stack  
 
 ---
 
 ## 🧠 Tech Stack
 
-### **Front-end**
-- HTML  
-- CSS  
-- JavaScript  
-- Bootstrap  
+**Front-End:**  
+HTML | CSS | JavaScript | Bootstrap  
 
-### **Back-end**
-- Node.js  
-- Express  
-- PostgreSQL  
-- EJS  
-- REST APIs  
+**Back-End:**  
+Node.js | Express | PostgreSQL | EJS | REST APIs  
 
-### **Tools**
-- Git & GitHub  
-- Render  
-- Postman  
+**Tools:**  
+Git & GitHub | Postman | Render  
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎬 Movie Finder – API Integration
-A web app that consumes a public IMDb/OMDb API to search for movie info based on user input.  
-Includes Express, EJS, and server-side rendering.
+**1️⃣ GameRank – Full-Stack Web App**  
+- Ranking system for favorite games with CRUD functionality  
+- PostgreSQL database, Express backend, server-side rendering with EJS  
+- Integrates IGDB API for dynamic game data  
+🔗 [GitHub Repository](https://github.com/Cairooo/gamerank)  
+
+**2️⃣ Movie Finder – API Integration**  
+- Web app consuming OMDb/IMDb API for movie search  
+- Server-side rendering with Express + EJS  
+🔗 [GitHub Repository](https://github.com/Cairooo/movie-search-app)  
+
+**3️⃣ Codec (Metal Gear Solid 1)**  
+- Recreation of MGS1 Codec UI using HTML, CSS, JS  
+- Focused on retro UI, animations, and interactivity  
+🔗 [GitHub Repository](https://github.com/Cairooo/codec-mgs1)  
+
+**4️⃣ Gabriel Castano Tattoo Studio – Landing Page**  
+- Client-oriented landing page with responsive design and UI clarity  
+- Focus on conversion and portfolio showcase  
+🔗 [GitHub Repository](https://github.com/Cairooo/gabriel-castano-tattoo)  
+
+**5️⃣ Digital Diary – CRUD Practice**  
+- Practice with GET, POST, DELETE using Node.js + Express  
+- Simple server-side diary simulation  
+🔗 [GitHub Repository](https://github.com/Cairooo/digital-diary)  
+
+**6️⃣ ISEL Church Website**  
+- Institutional website using HTML, CSS, Bootstrap  
+- Clean layout, fully responsive  
+🔗 [GitHub Repository](https://github.com/Cairooo/isel-church-website)  
 
 ---
 
-### ⛪ ISEL Church Website
-Institutional website created with HTML, CSS and Bootstrap.  
-Clean layout and fully responsive.
-
----
-
-### 📓 Digital Diary – CRUD
-Project built to practice GET, POST and DELETE using Node.js + Express.  
-Simulates a simple digital diary with server-side rendering.
-
----
-
-### 🎮 Codec (Metal Gear Solid 1)
-Recreation of the MGS1 Codec UI using HTML, CSS and JavaScript.  
-Fully functional on desktop — mobile version under development.
-
----
-
-### 💉 Tattoo Studio – Landing Page
-Landing page focused on responsive design, UI clarity and conversion.  
-Built with HTML, CSS, JavaScript.
-
----
-
-## 🌍 International Experience (My Edge)
-I worked 2 years aboard cruise ships with teams from more than 20 nationalities.
-
-This experience gave me:
+## 🌍 International Experience – My Edge
+Working aboard cruise ships taught me:  
 - Excellent communication  
-- Fluent English  
-- Adaptability  
-- Multicultural teamwork  
-- Fast learning  
+- Adaptability in multicultural teams  
+- Fast learning and resilience  
+- Fluency in English  
 
-These soft skills help me stand out in **remote junior positions**, including abroad.
+These soft skills make me stand out in **remote junior roles**, including international positions.
 
 ---
 
@@ -93,11 +82,8 @@ These soft skills help me stand out in **remote junior positions**, including ab
 ---
 
 ## 📫 Let's Connect!
-- 💼 **LinkedIn:**  
-  https://www.linkedin.com/in/cairo-estrella-de-oliveira-167a57100/
+**LinkedIn:** [linkedin.com/in/cairo-estrella-de-oliveira-167a57100](https://www.linkedin.com/in/cairo-estrella-de-oliveira-167a57100/)  
+**GitHub:** [github.com/Cairooo](https://github.com/Cairooo)  
+**Email:** cairo.92@hotmail.com  
 
-- 🧰 **GitHub:**  
-  https://github.com/Cairooo
-
-- ✉️ **Email:**  
-  cairo.92@hotmail.com
+---
